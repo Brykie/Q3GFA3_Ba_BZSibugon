@@ -17,3 +17,4 @@ var rng = Math.floor(Math.random() * 1000);
   
 
 // math.floor is to round down so it wont be like .123192 //
+// alternatively, could use other methods to obtain hundreds, tens, and ones eg. num - (num%100) for the hundreds and etc. //
